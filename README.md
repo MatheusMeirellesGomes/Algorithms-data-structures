@@ -8,7 +8,7 @@
 
 ## 📚 Sobre o Repositório
 
-Este repositório foi criado com o objetivo de organizar e compartilhar mais de **500 exercícios de programação** desenvolvidos ao longo da graduação em Ciência da Computação.
+Este repositório foi criado com o objetivo de organizar e compartilhar mais de **300 exercícios de programação** desenvolvidos ao longo da graduação em Ciência da Computação.
 
 O conteúdo é focado em:
 
